@@ -13,8 +13,8 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.electricorbloxtric.net/links/discord" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/discord.webp" alt="Discord Server" height="30" width="40" /></a>
-<a href="https://www.electricorbloxtric.net/links/twitter" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/twitter.webp" alt="Twitter/X" height="30" width="40" /></a>
-<a href="https://www.electricorbloxtric.net/links/youtube" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/youtube.webp" alt="" alt="YouTube" height="30" width="40" /></a>  
-<a href="https://www.electricorbloxtric.net/links/rumble" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/rumble.webp" alt="" alt="Rumble" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/discord" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/discord.webp" alt="Discord Server" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/twitter" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/twitter.webp" alt="Twitter/X" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/youtube" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/youtube.webp" alt="" alt="YouTube" height="30" width="40" /></a>  
+<a href="https://www.electricorbloxtric.net/links/rumble" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/rumble.webp" alt="" alt="Rumble" height="30" width="40" /></a>
 </p>
