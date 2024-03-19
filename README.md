@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElectricOrBloxtric&label=Profile%20views&color=0e75b6&style=flat" alt="ElectricOrBloxtric" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ElecOrBlox" target="blank"><img src="https://img.shields.io/twitter/follow/ElecOrBlox?logo=twitter&style=for-the-badge" alt="@ElecOrBlox" /></a> <a href="https://twitter.com/iamrealElectric" target="blank"><img src="https://img.shields.io/twitter/follow/iamrealElectric?logo=twitter&style=for-the-badge" alt="@iamrealElectric" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ElecOrBlox" target="blank"><img src="https://img.shields.io/twitter/follow/ElecOrBlox?logo=twitter&style=for-the-badge" alt="@ElecOrBlox" /></a></p>
 
 - 📈 I own and run [ASPCounts](https://aspcounts.com) & [BGTrack](https://bgtrack.net)
 
