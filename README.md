@@ -7,7 +7,7 @@
 
 - 📈 I own and run [ASPCounts](https://aspcounts.com) & [BGTrack](https://bgtrack.net)
 
-- 🔭 I co-own [YAB ?! Counts](https://yabcounts.com)
+- 🔢 I co-own [YAB ?! Counts](https://yabcounts.com)
 
 - 🌐 My Website: [www.electricorbloxtric.net](https://www.electricorbloxtric.net)
   
