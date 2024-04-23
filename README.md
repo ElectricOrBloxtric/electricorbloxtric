@@ -13,9 +13,9 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.electricorbloxtric.net/links/discord" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/discord.webp" alt="Discord" height="30" width="40" /></a>
-<a href="https://www.electricorbloxtric.net/links/twitter" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/twitter.webp" alt="Twitter/X" height="30" width="40" /></a>
-<a href="https://www.electricorbloxtric.net/links/youtube" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/youtube.webp" alt="" alt="YouTube" height="30" width="40" /></a>  
-<a href="https://www.electricorbloxtric.net/links/rumble" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/rumble.webp" alt="" alt="Rumble" height="30" width="40" /></a>
-<a href="https://www.electricorbloxtric.net/links/instagram" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/instagram.webp" alt="" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/discord" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/discord.png" alt="Discord" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/twitter" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/twitter.png" alt="Twitter/X" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/youtube" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/youtube.png" alt="" alt="YouTube" height="30" width="40" /></a>  
+<a href="https://www.electricorbloxtric.net/links/rumble" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/rumble.png" alt="" alt="Rumble" height="30" width="40" /></a>
+<a href="https://www.electricorbloxtric.net/links/instagram" target="blank"><img align="center" src="https://www.electricorbloxtric.net/images/logos/instagram.png" alt="" alt="Instagram" height="30" width="40" /></a>
 </p>
