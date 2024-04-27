@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Electric!</h1>
-<h3 align="center">Statistics Addict/Sandbox Game Enthusiast</h3>
+<h1 align="center">Hi 👋, My name is Electric!</h1>
+<h3 align="center">Statistics Fan/Sandbox Game Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElectricOrBloxtric&label=Profile%20views&color=0e75b6&style=flat" alt="ElectricOrBloxtric" /> </p>
 
